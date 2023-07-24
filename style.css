@@ -1,0 +1,27 @@
+.container-fluid{
+    border: 2px solid black;
+    padding: 2px;
+    
+
+}
+.col-xl-5{
+    
+    padding: 1px;
+    background-color: rgb(244, 207, 160);
+   
+    
+   
+}
+.col-xl-7{
+    border: 1px solid black;
+    padding: 1px;
+    
+    background-color: rgb(228, 163, 78);
+}
+h3{
+    color: rgb(66, 2, 2);
+}
+
+input, textarea {
+    margin-top: 5px;
+  }
