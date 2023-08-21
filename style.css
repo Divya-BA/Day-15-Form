@@ -8,6 +8,7 @@
     
     padding: 1px;
     background-color: rgb(244, 207, 160);
+    height: 57rem;
    
     
    
@@ -17,6 +18,7 @@
     padding: 1px;
     
     background-color: rgb(228, 163, 78);
+    height:57rem;
 }
 h3{
     color: rgb(66, 2, 2);
@@ -25,3 +27,9 @@ h3{
 input, textarea {
     margin-top: 5px;
   }
+#submit{
+    background-color: deepskyblue;
+}
+#form{
+    margin-left: 20px;
+}
